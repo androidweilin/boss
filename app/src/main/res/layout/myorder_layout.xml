@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/id_my_order_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/color_item_divider"
+        android:dividerHeight="1dp"
+        android:fastScrollEnabled="true"
+        android:layoutAnimation="@anim/list_anim" >
+    </ListView>
+
+    <ViewStub
+        android:id="@+id/id_empty_order"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout="@layout/list_empty_loading_layout" />
+
+    <ViewStub
+        android:id="@+id/id_empty_fail_order"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout="@layout/list_empty_loading_fail" />
+
+    <ViewStub
+        android:id="@+id/id_empty_done_order"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout="@layout/list_empty_loaddone_order" />
+
+</LinearLayout>

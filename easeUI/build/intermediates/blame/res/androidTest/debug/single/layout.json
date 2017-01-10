@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_conversation_item.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_conversation_item.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_message.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_emojicon.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_message.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_contact.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_file.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_file.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_emojicon.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_contact.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_list_layout.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\message_list_layout.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_contact.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\item.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_location.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_location.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\em_activity_chat.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\em_activity_chat.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\em_activity_chat.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\em_activity_chat.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_conversation_item.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_message.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_file.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\em_activity_chat.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\em_activity_chat.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_location.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "F:\\BOSSTUAN_WORK\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_emojicon.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "F:\\boss\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "F:\\boss\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "E:\\BOSSTUA_v2\\easeUI\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_input_menu.xml"
+    }
+]

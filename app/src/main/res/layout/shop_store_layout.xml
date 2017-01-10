@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/business_store_padding" >
+
+    <RelativeLayout
+        android:id="@+id/id_business_store_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/business_store_icon_height" >
+
+        <ImageView
+            android:id="@+id/id_business_store_title_icon"
+            android:layout_width="@dimen/business_store_icon_width"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/id_business_store_address_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/id_business_store_title_icon"
+            android:onClick="ClickAddress"
+            android:src="@drawable/ic_shop_address" />
+
+        <TextView
+            android:id="@+id/id_business_store_address_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/id_business_store_address_icon"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="5dp"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/id_business_store_phone_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/id_business_store_address_name"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/id_business_store_title_icon"
+            android:onClick="ClickPhone"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_shop_call" />
+
+        <TextView
+            android:id="@+id/id_business_store_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/id_business_store_phone_icon"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/id_business_store_phone_icon"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/id_business_store_list"
+        style="@style/CustomListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+    </ListView>
+
+    <ViewStub
+        android:id="@+id/id_shop_store_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout="@layout/list_empty_loading_layout" />
+
+    <ViewStub
+        android:id="@+id/id_shop_store_empty_fail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout="@layout/list_empty_loading_fail" />
+
+    <ViewStub
+        android:id="@+id/id_shop_store_empty_done"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout="@layout/list_empty_loaddone_empty" />
+
+</LinearLayout>
